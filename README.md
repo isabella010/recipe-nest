@@ -4,7 +4,7 @@ A place where users can save their favourite recipes and keep them together all 
 
 ## Technology 
 
-This project is built using React and JSX for dynamic UI components, MongoDB for data storage, and styled with Bootstrap, HTML, and CSS. The development environment is powered by Vite, with deployment handled through Netlify, and initial design prototypes created in Figma.
+This project is built using **React** and **JSX** for dynamic UI components, **MongoDB** for data storage, and styled with **Bootstrap**, **HTML**, and **CSS**. The development environment is powered by **Vite**, with deployment handled through **Netlify**, and initial design prototypes created in **Figma**.
 
 ## Figma
 
