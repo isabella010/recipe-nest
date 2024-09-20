@@ -1,8 +1,11 @@
-# React + Vite
+# Recipe Nest
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A place where users can save their favourite recipes and keep them together all in one place.
 
-Currently, two official plugins are available:
+## Technology 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is built using React and JSX for dynamic UI components, MongoDB for data storage, and styled with Bootstrap, HTML, and CSS. The development environment is powered by Vite, with deployment handled through Netlify, and initial design prototypes created in Figma.
+
+## Figma
+
+https://www.figma.com/proto/BSEhSbpqQvIN4QsNe0Jq0i/Recipe-Nest?node-id=0-1&t=3UNyN3yOZO6d2tCl-1 
